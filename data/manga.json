@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sample",
+    "title": "サンプル漫画",
+    "description": "これはサンプルの漫画です。",
+    "cover": "works/sample/cover.jpg",
+    "tags": ["サンプル"],
+    "pages": [
+      "works/sample/page01.jpg",
+      "works/sample/page02.jpg",
+      "works/sample/page03.jpg"
+    ],
+    "updatedAt": "2026-03-27"
+  },
+  {
+    "id": "MVV",
+    "title": "抑止力の弾丸",
+    "description": "",
+    "cover": "works/MVV/MVV_001.png",
+    "tags": ["未完成"],
+    "pages": [
+      "works/MVV/MVV_001.png",
+      "works/MVV/MVV_002.png",
+      "works/MVV/MVV_003.png",
+      "works/MVV/MVV_004.png",
+      "works/MVV/MVV_005.png",
+      "works/MVV/MVV_006.png"
+    ],
+    "updatedAt": "2026-03-27"
+  }
+]
