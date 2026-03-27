@@ -1,30 +1,49 @@
 [
   {
-    "id": "sample",
-    "title": "サンプル漫画",
-    "description": "これはサンプルの漫画です。",
-    "cover": "works/sample/cover.jpg",
-    "tags": ["サンプル"],
+    "id": "no1",
+    "title": "抑止力の弾丸",
+    "author": "",
+    "keywords": ["思想漫画", "ビジネス漫画", "合理性", "意思決定", "変革"],
+    "description": "停滞した世界。\n進むべき速度を失い、「現状維持」という名の正義が支配する社会。\n\n秋葉原の歪んだ風景を背に、既得権益にしがみつく者たちが集う密室の会議。\nそこに現れたのは、\"この世界の論理の外側\"から来た男だった。\n\n彼は否定しない。論破もしない。\nただ、冷静に言い切る。\n\n「非合理は、すべて終わらせる」\n\n加速する時代、崩れゆく秩序。\n人類を前に進めてきた唯一の原理とは何か。\n\nこれは――\n合理という名の\"抑止力\"が、世界を書き換える物語。",
+    "cover": "works/no1/MVV_001.png",
+    "tags": ["未完成"],
     "pages": [
-      "works/sample/page01.jpg",
-      "works/sample/page02.jpg",
-      "works/sample/page03.jpg"
+      "works/no1/MVV_001.png",
+      "works/no1/MVV_002.png",
+      "works/no1/MVV_003.png",
+      "works/no1/MVV_004.png",
+      "works/no1/MVV_005.png",
+      "works/no1/MVV_006.png",
+      "works/no1/MVV_007.png",
+      "works/no1/MVV_008.png"
     ],
     "updatedAt": "2026-03-27"
   },
   {
-    "id": "MVV",
-    "title": "抑止力の弾丸",
+    "id": "no2",
+    "title": "合理の悪魔",
+    "author": "",
+    "keywords": [],
     "description": "",
-    "cover": "works/MVV/MVV_001.png",
-    "tags": ["未完成"],
+    "cover": "works/no2/P1.png",
+    "tags": [],
     "pages": [
-      "works/MVV/MVV_001.png",
-      "works/MVV/MVV_002.png",
-      "works/MVV/MVV_003.png",
-      "works/MVV/MVV_004.png",
-      "works/MVV/MVV_005.png",
-      "works/MVV/MVV_006.png"
+      "works/no2/P1.png",
+      "works/no2/P2.png",
+      "works/no2/P3.png",
+      "works/no2/P4.png",
+      "works/no2/P5.png",
+      "works/no2/P6.png",
+      "works/no2/P7.png",
+      "works/no2/P8.png",
+      "works/no2/P9.png",
+      "works/no2/P10.png",
+      "works/no2/P11.png",
+      "works/no2/P12.png",
+      "works/no2/P13.png",
+      "works/no2/P14.png",
+      "works/no2/P15.png",
+      "works/no2/P16.png"
     ],
     "updatedAt": "2026-03-27"
   }
